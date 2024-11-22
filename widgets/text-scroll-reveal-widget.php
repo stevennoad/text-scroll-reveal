@@ -15,7 +15,7 @@ class Text_Scroll_Reveal_Widget extends \Elementor\Widget_Base {
     }
 
     public function get_icon() {
-        return 'eicon-editor-text';
+        return 'eicon-animated-headline';
     }
 
     public function get_categories() {
